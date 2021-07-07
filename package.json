@@ -74,7 +74,7 @@
         ]
     },
     "devDependencies": {
-        "eslint": "^7.4.0",
+        "eslint": "^7.30.0",
         "eslint-plugin-jest": "^23.20.0",
         "husky": "4.2.5",
         "jest": "^26.2.2",
